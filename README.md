@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nigel2woo807
+- 👀 I’m interested in Computer Science undergrad exploring Perl.
+- 🌱 Intrigued by text processing and system administration tasks.
